@@ -26,7 +26,6 @@ Atliq Hardware, a global computer hardware manufacturer, needs better data insig
 -  Implement SQL Queries to provide meaningful insights.
 -  Leverage visualization tools and techniques to present data in an easily digestible format.
 -  Consider that the target audience is top-level management.
--  Make a video presentation.
 
 ## Tool Used:
 
