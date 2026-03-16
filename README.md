@@ -42,25 +42,25 @@ AtliQ Hardware is a computer hardware and peripherals manufacturer.
 
 > Division -> Segment -> Category -> Products -> Variants
 
-![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/23d8bdc3-961b-4568-8b4e-74138237558e)
+![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/Products.png)
  
 -dim_customer: contains customer-related data **Customer**
   
   Atliq`s has Brick & Mortar and E-Commerce customers, This is called their **platform**.
   They sell their goods through different **channels**: Retailer, Direct, Distributor.
 
-![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/bfb6c2e0-138b-4e27-a23b-bd8fdf7624e6)
+![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/Platform.png)
 
 - **Region / Market**
 The customer base is classified into 4 regions: APAC, EU, NA, and LATAM.
 They have their business established in the following countries:
-![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/e01ca926-0911-4457-a265-21e6e4424b88)
+![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc queries/blob/main/Region_Market.png)
 
 - **Fiscal Year**
-![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/870d2bb2-38b8-499d-b39b-7c71bf030920)
+![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/Fiscal_Year.png)
 
 - **Data Model**
-![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/assets/123518126/36015f2a-ab8a-44ad-a15c-f1d96a65ff65)
+![image](https://github.com/Rajabhin/Consumer-Goods-Insights-and-Adhoc-queries/blob/main/Data_Model.png)
 
 ## Ad-hoc Requests:
 
