@@ -65,7 +65,6 @@ Candidates analyze sales and financial datasets and present insights using:
 - MySQL
 - Power BI
 - PowerPoint
-- YouTube
 
 ---
 
